@@ -1,6 +1,6 @@
-# 👋・About me
+# 👋・About Me
 > 3rd Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang, seeking a summer internship to gain experience in other and leverage my skills in problem-solving, coding languages, Leadership. Highly motivated and passionate.
-# 💻・Skill
+# 💻・My Skill
 > - Language : Python, Java, JavaScript, HTML & CSS
 > - Database : MySQL
 > - Tools : Git, VS Code, ChatGPT, Gemini
