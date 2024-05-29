@@ -6,4 +6,3 @@
 > - Tools : Git, VS Code, ChatGPT, Gemini
 > - System : Window, Linux
 > - Typing : English 45 WPS
-https://github-readme-stats.vercel.app/api?username=MadaMun
