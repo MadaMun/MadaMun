@@ -3,11 +3,10 @@
 
 
 # 💻・My Skill
-> - **Language :** <img class="ml-1 w-2 h-2 sm:w-2.5 sm:h-2.5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">, Java, JavaScript, HTML & CSS
-> - **Database :** MySQL
-> - **Tools :** Git, VS Code, ChatGPT, Gemini
-> - **System :** Window, Linux
-> - **Typing :** English 45 WPS
+> - **Language :** <img class="ml-5 w-4 h-4" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="4%" hight="4%">
+> - **Database :** <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="4%" hight="4%">
+> - **Tools :** <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="git" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="4%" hight="4%">
+> - **System :** <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://img.icons8.com/?size=100&id=M9BRw0RJZXKi&format=png&color=000000" alt="linux" width="4%" hight="4%">, <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="4%" hight="4%">
 
 
 # ☕・Support Me
