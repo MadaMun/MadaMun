@@ -3,7 +3,7 @@
 
 
 # 💻・My Skill
-> - **Language :** Python, Java, JavaScript, HTML & CSS
+> - **Language :** <img class="ml-1 w-2 h-2 sm:w-2.5 sm:h-2.5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">, Java, JavaScript, HTML & CSS
 > - **Database :** MySQL
 > - **Tools :** Git, VS Code, ChatGPT, Gemini
 > - **System :** Window, Linux
